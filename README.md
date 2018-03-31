@@ -1,2 +1,2 @@
-# danielmiralles.github.io
+# hruiz.github.io
 Personal resume website
